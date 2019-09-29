@@ -1,0 +1,6 @@
+classes = 1
+train  = data/pmd/pmd_train.txt
+valid  = data/pmd/pmd_test.txt
+names = data/pmd/classes.names
+backup = data/pmd/weights/
+
