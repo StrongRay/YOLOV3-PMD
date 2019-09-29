@@ -1,3 +1,5 @@
+**Referenced REPO** :  https://github.com/AlexeyAB/darknet
+
 I cannot load up my trained weights file which is more than 25 MB.  But you can run the training on your own.
 The data files is uploaded with labels.
 
