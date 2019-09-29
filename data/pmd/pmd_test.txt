@@ -1,0 +1,6 @@
+./data/pmd/JPEGImages/s2.jpg
+./data/pmd/JPEGImages/s35.jpg
+./data/pmd/JPEGImages/s50.jpg
+./data/pmd/JPEGImages/s69.jpg
+./data/pmd/JPEGImages/s30.jpg
+./data/pmd/JPEGImages/s9.jpg
